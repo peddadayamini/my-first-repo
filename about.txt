@@ -1,0 +1,3 @@
+yamini
+BSC computer science
+I learned how to create repositories and commit changes in GitHub.
